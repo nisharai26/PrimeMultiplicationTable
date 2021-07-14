@@ -1,0 +1,18 @@
+{
+  "name": "PrimeTable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PrimeNumberMultiplication.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "primes-multiplication-table": "^1.8.0"
+  }
+}

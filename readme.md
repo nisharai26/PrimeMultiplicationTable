@@ -1,0 +1,1 @@
+I refer to the https://www.npmjs.com/package/primes-multiplication-table site for full knowledge about this program and made some changes according to my knowledge to see how the things goes and happy to see the output.
